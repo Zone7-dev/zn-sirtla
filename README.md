@@ -1,6 +1,3 @@
-# Carry People by Robbster
+# Carry People by Zone7
 
-Instructions on how to use:
-Type /carry close to someone then either person can cancel by again doing /carry
-
-Feel free to make improvements with PRs
+F9'a bastığınızda direk sırtlayan bir sistemdir
